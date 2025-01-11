@@ -1,0 +1,7 @@
+Kiosko127Hrs/
+│
+├── README.md			# Documentación del proyecto.
+├── kiosko127hrs.py		# Lógica principal del programa.
+├── kiosko127hrs.db		# Base de datos SQLite.
+├── makedb.py			# Configuración inicial y creación de la base de datos.
+├── tree.txt			# Listado de Archivos
