@@ -1,6 +1,8 @@
 # Proyecto: Kiosco127Hrs
-# Autor: José Torres Tortorella
-# Descripción: Gestión de inventario para una pequeña tienda
+# Autor: José Torres Tortorella (95.704.279)
+# Descripción: Sistema de gestión de inventario para una pequeña tienda, desarrollado en Python para el Curso Iniciación a la Programación con Pyhton.
+# Instructor: Fede Liquin.
+# Tutora: Natalia ThemTham.
 
 ## Archivo: makedb.py
 
