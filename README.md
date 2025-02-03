@@ -6,8 +6,7 @@ Kiosco127Hrs es un sistema de gestión de inventario diseñado para pequeñas ti
 ---
 
 ## Autor
-- **José Torres Tortorella**
-- **DNI:** 95.704.279
+- **JoseTT**
 
 ---
 
